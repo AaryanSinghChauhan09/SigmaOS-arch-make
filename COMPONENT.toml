@@ -3,7 +3,7 @@ name = "SigmaOS-arch-make"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-make component"
+description = "SigmaOS SigmaOS-arch-make component"
 upstream = []
 
 [contract]
